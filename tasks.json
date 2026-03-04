@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "title": "Estudar engenharia de software",
+        "description": "Aplicar conceitos de SOLID e Clen Code",
+        "created_at": "2026-03-04T19:31:47.181998",
+        "is_completed": false
+    }
+]
