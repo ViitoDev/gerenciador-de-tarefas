@@ -12,7 +12,7 @@ def main() -> None:
     print(f"Tarefa criada: {my_task.title}")
     print(f"Status inicial: {"Completa" if my_task.is_completed else "Pendente"}")
 
-    my_task.mark_as_complete()
+    my_task.mark_complete()
 
     print(f"Status atual: {"Completa" if my_task.is_completed else "Pendente"}")
 
